@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/parvane-sanaie/robofriends/static/css/main.450a8a93.chunk.css",
-    "main.js": "/parvane-sanaie/robofriends/static/js/main.52e09529.chunk.js",
-    "main.js.map": "/parvane-sanaie/robofriends/static/js/main.52e09529.chunk.js.map",
+    "main.js": "/parvane-sanaie/robofriends/static/js/main.f66e2093.chunk.js",
+    "main.js.map": "/parvane-sanaie/robofriends/static/js/main.f66e2093.chunk.js.map",
     "runtime-main.js": "/parvane-sanaie/robofriends/static/js/runtime-main.a3d5d39b.js",
     "runtime-main.js.map": "/parvane-sanaie/robofriends/static/js/runtime-main.a3d5d39b.js.map",
     "static/css/2.31461e4f.chunk.css": "/parvane-sanaie/robofriends/static/css/2.31461e4f.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.69372460.chunk.js",
     "static/css/main.450a8a93.chunk.css",
-    "static/js/main.52e09529.chunk.js"
+    "static/js/main.f66e2093.chunk.js"
   ]
 }
