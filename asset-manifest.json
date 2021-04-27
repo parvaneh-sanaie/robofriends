@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/parvane-sanaie/robofriends/static/css/main.450a8a93.chunk.css",
-    "main.js": "/parvane-sanaie/robofriends/static/js/main.f66e2093.chunk.js",
-    "main.js.map": "/parvane-sanaie/robofriends/static/js/main.f66e2093.chunk.js.map",
-    "runtime-main.js": "/parvane-sanaie/robofriends/static/js/runtime-main.a3d5d39b.js",
-    "runtime-main.js.map": "/parvane-sanaie/robofriends/static/js/runtime-main.a3d5d39b.js.map",
-    "static/css/2.31461e4f.chunk.css": "/parvane-sanaie/robofriends/static/css/2.31461e4f.chunk.css",
-    "static/js/2.69372460.chunk.js": "/parvane-sanaie/robofriends/static/js/2.69372460.chunk.js",
-    "static/js/2.69372460.chunk.js.map": "/parvane-sanaie/robofriends/static/js/2.69372460.chunk.js.map",
-    "static/js/3.e26cdf79.chunk.js": "/parvane-sanaie/robofriends/static/js/3.e26cdf79.chunk.js",
-    "static/js/3.e26cdf79.chunk.js.map": "/parvane-sanaie/robofriends/static/js/3.e26cdf79.chunk.js.map",
-    "index.html": "/parvane-sanaie/robofriends/index.html",
-    "static/css/2.31461e4f.chunk.css.map": "/parvane-sanaie/robofriends/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.450a8a93.chunk.css.map": "/parvane-sanaie/robofriends/static/css/main.450a8a93.chunk.css.map",
-    "static/js/2.69372460.chunk.js.LICENSE.txt": "/parvane-sanaie/robofriends/static/js/2.69372460.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/parvane-sanaie/robofriends/static/media/ElTitoAdolfo.c9430fd7.otf"
+    "main.css": "/robofriends/static/css/main.4c288148.chunk.css",
+    "main.js": "/robofriends/static/js/main.f66e2093.chunk.js",
+    "main.js.map": "/robofriends/static/js/main.f66e2093.chunk.js.map",
+    "runtime-main.js": "/robofriends/static/js/runtime-main.e9e010ab.js",
+    "runtime-main.js.map": "/robofriends/static/js/runtime-main.e9e010ab.js.map",
+    "static/css/2.31461e4f.chunk.css": "/robofriends/static/css/2.31461e4f.chunk.css",
+    "static/js/2.69372460.chunk.js": "/robofriends/static/js/2.69372460.chunk.js",
+    "static/js/2.69372460.chunk.js.map": "/robofriends/static/js/2.69372460.chunk.js.map",
+    "static/js/3.e26cdf79.chunk.js": "/robofriends/static/js/3.e26cdf79.chunk.js",
+    "static/js/3.e26cdf79.chunk.js.map": "/robofriends/static/js/3.e26cdf79.chunk.js.map",
+    "index.html": "/robofriends/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/robofriends/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.4c288148.chunk.css.map": "/robofriends/static/css/main.4c288148.chunk.css.map",
+    "static/js/2.69372460.chunk.js.LICENSE.txt": "/robofriends/static/js/2.69372460.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robofriends/static/media/ElTitoAdolfo.c9430fd7.otf"
   },
   "entrypoints": [
-    "static/js/runtime-main.a3d5d39b.js",
+    "static/js/runtime-main.e9e010ab.js",
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.69372460.chunk.js",
-    "static/css/main.450a8a93.chunk.css",
+    "static/css/main.4c288148.chunk.css",
     "static/js/main.f66e2093.chunk.js"
   ]
 }
